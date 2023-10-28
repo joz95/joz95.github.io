@@ -7,6 +7,6 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 # theme: jekyll-theme-slate
 
-#remote_theme: niklasbuschmann/contrast@v2.11
-#plugins:
-#  - jekyll-remote-theme
+remote_theme: niklasbuschmann/contrast@v2.11
+plugins:
+  - jekyll-remote-theme
